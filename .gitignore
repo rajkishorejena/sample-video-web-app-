@@ -6,7 +6,7 @@
 .pnp.js
 
 .firebaserc
-firebasec.json
+firebase.json
 /src/firebase.js
 .env
 
